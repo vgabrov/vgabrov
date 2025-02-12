@@ -2,6 +2,7 @@
 - 👀 I’m interested in Python for data analysis in medicine, business, maths, physics and linguistics.
 - 🌱 I’m currently into exploring wordlwide data in medicine, sociology and demographics and running metrics on it.
 - 💞️ I’m looking to collaborate on anything interesting.
+- LinkedIn https://www.linkedin.com/in/vgabrov/
 
 # Code Demos
 
