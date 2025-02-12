@@ -5,7 +5,7 @@
 
 # Code Demos
 
-1. [Credit Approcal](../code-demos/credit_approval/) - Analysis for a credit company using simple metrics and a large dataset for machine learning to determine whether to approve or deny a loan.
+1. [Credit Approval](https://github.com/vgabrov/code-demos/tree/main/credit_approval) - Analysis for a credit company using simple metrics and a large dataset for machine learning to determine whether to approve or deny a loan.
 
 2. [Демо 2](./demo2/) - Краткое описание второго демо.
 3. [Демо 3](./demo3/) - Краткое описание третьего демо.
