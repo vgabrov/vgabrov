@@ -6,12 +6,6 @@
 # Code Demos
 
 1. [Credit Approval](https://github.com/vgabrov/code-demos/tree/main/credit_approval) - Analysis for a credit company using simple metrics and a large dataset for machine learning to determine whether to approve or deny a loan.
-
-2. [Демо 2](./demo2/) - Краткое описание второго демо.
-3. [Демо 3](./demo3/) - Краткое описание третьего демо.
-
-## Как использовать
-Каждый проект находится в своей папке. Перейдите в нужную папку, чтобы посмотреть код.
-
-## Контакты
-Если у вас есть вопросы, пишите в issues.
+2. [Poisson distribution in transactions](https://github.com/vgabrov/code-demos/tree/main/transactions) - Analysis of a Poisson distribution. Compares observed data with expected values using a chi-square test.
+3. [Python homework](https://github.com/vgabrov/code-demos/tree/main/homework) - Python basics homework.
+4. [Sales boxplots](https://github.com/vgabrov/code-demos/tree/main/sales_boxplot) - A simple code to visualise and analyse some sales data, connecting to it directly from Google Sheets.
