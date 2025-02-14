@@ -10,3 +10,4 @@
 2. [Poisson distribution in transactions](https://github.com/vgabrov/code-demos/tree/main/transactions) - Analysis of a Poisson distribution. Compares observed data with expected values using a chi-square test.
 3. [Python homework](https://github.com/vgabrov/code-demos/tree/main/homework) - Python basics homework.
 4. [Sales boxplots](https://github.com/vgabrov/code-demos/tree/main/sales_boxplot) - A simple code to visualise and analyse some sales data, connecting to it directly from Google Sheets.
+5. [Ranks: Spearman & Kendall](https://github.com/vgabrov/code-demos/tree/main/spearman_kendall) - Testing for non-linear rank correlations between laptop screen sizes and their prices.
